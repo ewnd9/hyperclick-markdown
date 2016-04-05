@@ -6,6 +6,9 @@
   "version": "0.1.0",
   "description": "Hyperclick markdown provider",
   "repository": "https://github.com/ewnd9/hyperclick-markdown",
+  "files": [
+    "lib"
+  ],
   "engines": {
     "atom": ">0.194.0"
   },
