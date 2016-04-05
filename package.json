@@ -1,9 +1,10 @@
 {
-  "name": "hyperclick-provider-demo",
-  "author": "Facebook",
+  "name": "hyperclick-markdown",
+  "author": "ewnd9 <ewndnine@gmail.com>",
+  "license": "MIT",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "Hyperclick provider demo",
+  "description": "Hyperclick markdown provider",
   "engines": {
     "atom": ">0.194.0"
   },
