@@ -2,7 +2,7 @@
 
 Ctrl+Click in markdown file to open fs and web urls in the editor.
 
-![Demonstration](/docs/demo.gif?raw=true)
+![Demonstration](https://raw.githubusercontent.com/ewnd9/hyperclick-markdown/master/docs/demo.gif)
 
 ## Install
 
