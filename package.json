@@ -3,7 +3,7 @@
   "author": "ewnd9 <ewndnine@gmail.com>",
   "license": "MIT",
   "main": "./lib/main",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Hyperclick markdown provider",
   "repository": "https://github.com/ewnd9/hyperclick-markdown",
   "files": [
