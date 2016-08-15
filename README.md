@@ -21,12 +21,12 @@ $ ln -s $PWD/hyperclick-markdown $HOME/.atom/packages/hyperclick-markdown
 
 - ./lib/main.js
 - /lib/main.js \<\!-- root of the project
-- ../hyperclick-markdown/lib/main.js
+- http://github.com/
+- [A link](reddit.com) sample text
 
 ## Problems
 
 - [ ] How to disable plugin for non-markdown files in config?
-- [ ] Lacking of tests
 
 ## Credits
 
