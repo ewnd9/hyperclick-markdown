@@ -22,7 +22,8 @@ $ ln -s $PWD/hyperclick-markdown $HOME/.atom/packages/hyperclick-markdown
 - ./lib/main.js
 - /lib/main.js \<\!-- root of the project
 - http://github.com/
-- [A link](reddit.com) sample text
+- [markdown link without protocol](reddit.com)
+- [markdown link to localhost](localhost:8080)
 
 ## Problems
 
